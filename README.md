@@ -1,10 +1,21 @@
-# BDMA_HW
-This repository holds all the pieces of homework done at the "Big Data Mining and Applications" class at the National Taipei University of Technology in Fall 2019.
+# Real-time fraud detection at scale
+[Big Data] Fraud detection in bank transaction with a real-time system at scale @ National Taipei University of Technology
 
-# Framework Versions
+## Goal:
+Implementation of a fraud detection system that can showcase real-time abilities by analyzing from a data stream 
 
- * Python 3.7.3
- * Spark  2.4.4
+## Tasks:
+• SetUp of the data streaming with Kafka & Spark
+• Implementation of a neural network for the fraud detection of a single transaction
+• Integration of all components into Docker containers for an easy deployment
+
+## Outcome:
+A real-time fraud detection system at-scale
+
+## Tools & Resources:
+• Python, Keras <br/>
+• Spark, Kafka <br/>
+• Docker
  
 
  
