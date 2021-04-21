@@ -1,7 +1,7 @@
 # Real-time fraud detection at scale
 [Big Data] Fraud detection in bank transaction with a real-time system at scale @ National Taipei University of Technology
 
-==> Code can be found in the 'projects' folder
+==> Code can be found in the 'Project' folder
 
 ## Goal:
 Implementation of a fraud detection system that can showcase real-time abilities by analyzing from a data stream 
